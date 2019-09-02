@@ -1,0 +1,1 @@
+<a href="https://tribunnews.com" onclick="this.href = 'https://www.liputan6.com" target="_blank">Kliklahbro</a>
